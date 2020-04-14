@@ -1,0 +1,154 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/nerstemp.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+<!-- These bits define some editable regions, only relevant if you're using Adobe Dreamweaver. If the editable regions are removed, there will be problems across the site though. There is no content to update here so can be well left alone. -->
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>NERS: Show calendar 2014</title>
+<!-- InstanceEndEditable -->
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<!-- InstanceBeginEditable name="head" -->
+<!-- InstanceEndEditable -->
+<!-- Favicon bits -->
+<link rel="icon" href="http://www.neratsociety.co.uk/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="http://www.neratsociety.co.uk/favicon.ico" type="image/x-icon"> 
+<!-- Link to the style sheet where most of the site-wide formatting is kept -->
+<link href="../ners.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+body {
+	background-image: url(../background.gif);
+	overflow: scroll;
+}
+</style></head>
+
+<!-- This is the (slightly messy-looking) code for the nested tables that make up the main body. Again there is no content to update in this section so it can just be ignored. -->
+<body>
+<table width="900" border="1" align="center" cellpadding="0" cellspacing="0">
+  <tr><td><table width="900" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr><td height="22" colspan="3" bgcolor="#a98cc6">&nbsp;</td></tr>
+      <tr><td width="195" bgcolor="#cec7df"><a href="../index.shtml"><img src="../header.gif" width="150" height="150" hspace="12" border="0"/></a></td>
+        <td width="526" align="left" valign="top" bgcolor="#cec7df">
+          <table width="350" border="0" align="center" cellpadding="1" cellspacing="1">
+            <tr><td valign="top"><!--#include virtual="../news.shtml" --></td></tr>
+          </table></td>
+        <td width="179" bgcolor="#cec7df"><a href="../index.shtml"><img src="../logo.gif" width="150" height="154" hspace="10" border="0" align="right"/></a></td></tr>
+      <tr><td height="22" colspan="3" align="center" valign="middle" bgcolor="#a98cc6"><strong><font face="Century Gothic" size="3" color="#FFFFFF">Promoting excellence in the care and breeding of fancy rats</font></strong></td></tr>
+      <tr><td width="195" valign="top" bgcolor="#cec7df"><table width="195" border="0" align="left" cellpadding="6" cellspacing="12">
+      
+          <!-- This is the table for the left-hand links menu.  -->
+          <tr><td width="159" bgcolor="#f0eefc">
+            <a href="../html/about.shtml" class="menu" target="_self">About the NERS</a><br/>
+            <a href="../html/membershipinfo.shtml" class="menu" target="_self">Membership</a><br/>
+            <a href="../html/committee.shtml" class="menu" target="_self">Committee</a><br/>
+            <a href="../html/rattitude.shtml" class="menu" target="_self"><em>Rattitude</em> newsletter</a><br/>
+            <a href="../html/longevity.shtml" class="menu" target="_self">Longevity Awards</a></td></tr>
+            <tr>
+            <td bgcolor="#f0eefc">
+            <a href="../html/rescuefund.shtml" class="menu" target="_self">NERS Rescue Fund</a><br/>
+            <a href="../html/rescuestories.shtml" class="menu" target="_self">Rescue stories</a><br/>
+            <a href="../html/fundraising.shtml" class="menu" target="_self">Fundraising</a></td></tr>
+            <tr>
+            <td bgcolor="#f0eefc">
+            <a href="../html/forum.shtml" class="menu" target="_self">NERS members' forum</a></td></tr
+            ><tr>
+            <td bgcolor="#f0eefc">
+            <a href="../html/nextshow.shtml" class="menu" target="_self">Next NERS show</a><br/>
+            <a href="../html/showcalendar.shtml" class="menu" target="_self">2015 show calendar</a><br/>            
+            <a href="../html/showresults.shtml" class="menu" target="_self">Show results</a><br />
+            <a href="../html/showarticles.shtml" class="menu" target="_self">Show articles</a></td></tr>
+            <tr>
+            <td bgcolor="#f0eefc">
+            <a href="../html/halloffame.shtml" class="menu" target="_self">Hall of fame</a></td></tr>
+            <tr>
+            <td bgcolor="#f0eefc">
+            <a href="../html/lookingforrats.shtml" class="menu" target="_self">Looking for rats?</a><br/>
+            <a href="../articles/petshops.shtml" class="menu" target="_self">Buying from pet shops</a><br/>
+            <a href="../html/breederlist.shtml" class="menu" target="_self">NERS breeders</a><br/>
+            <a href="../html/rescuelist.shtml" class="menu" target="_self">NERS rescues</a></td></tr>
+            <tr>
+            <td bgcolor="#f0eefc">
+            <a href="../html/ratkeeping.shtml" class="menu" target="_self">Rat-keeping information</a><tr>
+            <td bgcolor="#f0eefc">
+            <a href="../html/committee.shtml" class="menu" target="_self">Contact us</a></td></tr>
+          </table></td>
+        <td colspan="2" valign="top" bgcolor="#FFFFFF">
+		<table width="99%" border="0" cellspacing="5" cellpadding="5">
+		  <tr>
+          
+                 <!-- This is the editable region for main body content - any changes or updates will go in this bit.  -->
+          		<!-- InstanceBeginEditable name="mainbody" -->
+          		<td align="left" valign="top"><h2>Show calendar 2014</h2>
+          		  <table width="99%" border="1" cellspacing="0" cellpadding="3">
+          		    <tr>
+          		      <td align="left" valign="top" bgcolor="#cec7df">Date</td>
+          		      <td align="left" valign="top" bgcolor="#cec7df">Location</td>
+          		      <td align="left" valign="top" bgcolor="#cec7df">Address</td>
+          		      <td align="left" valign="top" bgcolor="#cec7df">Additional info</td>
+       		        </tr>
+          		    <tr>
+          		      <td width="17%" align="left" valign="top" bgcolor="#f0eefc">8 February </td>
+          		      <td width="13%" align="left" valign="top" bgcolor="#f0eefc">Preston <br />
+PR2 8NE</td>
+          		      <td width="50%" align="left" valign="top" bgcolor="#f0eefc">Christ Church, Victoria Road, Fulwood, Preston</td>
+          		      <td width="20%" align="left" valign="top" bgcolor="#f0eefc">1-star show</td>
+       		        </tr>
+          		    <tr>
+          		      <td align="left" valign="top" bgcolor="#f0eefc">5 April</td>
+          		      <td align="left" valign="top" bgcolor="#f0eefc">Gosforth <br />
+          		        NE3 1XR</td>
+          		      <td align="left" valign="top" bgcolor="#f0eefc">Gosforth Parish Church of St. Nicholas, Church Road, Gosforth, Tyne and Wear<br /></td>
+          		      <td align="left" valign="top" bgcolor="#f0eefc">1-star show<br />
+          		        AGM</td>
+       		        </tr>
+          		    <tr>
+          		      <td align="left" valign="top" bgcolor="#f0eefc">31 May</td>
+          		      <td align="left" valign="top" bgcolor="#f0eefc">Preston <br />
+          		        PR2 8NE</td>
+          		      <td align="left" valign="top" bgcolor="#f0eefc">Christ Church, Victoria Road, Fulwood, Preston</td>
+          		      <td align="left" valign="top" bgcolor="#f0eefc">1-star show</td>
+       		        </tr>
+          		    <tr>
+          		      <td align="left" valign="top" bgcolor="#f0eefc">19 July</td>
+          		      <td align="left" valign="top" bgcolor="#f0eefc">Gosforth <br />
+          		        NE3 1XR</td>
+          		      <td align="left" valign="top" bgcolor="#f0eefc">Gosforth Parish Church of St. Nicholas, Church Road, Gosforth, Tyne and Wear<br /></td>
+          		      <td align="left" valign="top" bgcolor="#f0eefc">1-star show</td>
+       		        </tr>
+          		    <tr>
+          		      <td align="left" valign="top" bgcolor="#f0eefc">27 September</td>
+          		      <td align="left" valign="top" bgcolor="#f0eefc">Preston <br />
+       		          PR2 8NE</td>
+          		      <td align="left" valign="top" bgcolor="#f0eefc">Christ Church, Victoria Road, Fulwood, Preston</td>
+          		      <td align="left" valign="top" bgcolor="#f0eefc">2-star show<br />
+       		          Cup show</td>
+       		        </tr>
+          		    <tr>
+          		      <td height="38" align="left" valign="top" bgcolor="#f0eefc">6 December</td>
+          		      <td align="left" valign="top" bgcolor="#f0eefc">Gosforth <br />
+          		        NE3 1XR</td>
+          		      <td align="left" valign="top" bgcolor="#f0eefc">Gosforth Parish Church of St. Nicholas, Church Road, Gosforth, Tyne and Wear<br /></td>
+          		      <td align="left" valign="top" bgcolor="#f0eefc">Christmas show + buffet</td>
+       		        </tr>
+       		      </table>
+       		    <p><a href="../html/showphotos01.shtml" title="Photos from previous NERS shows" target="_self">Photos from previous NERS shows</a></p>
+<p>&nbsp;</p>
+       		    <p>&nbsp;</p>
+       		    <p>&nbsp;</p>
+       		    <p>&nbsp;</p>
+       		    <p>&nbsp;</p>
+       		    <p>&nbsp;</p>
+       		    <p>&nbsp;</p></td>
+				<!-- InstanceEndEditable -->
+		    </tr>
+		  </table>
+		</td>
+      </tr>
+      <tr>
+        <td height="22" colspan="3" align="center" bgcolor="#a98cc6">&copy; NERS 2001-2015</td>
+      </tr>
+    </table></td>
+  </tr>
+</table>
+</body>
+<!-- InstanceEnd --></html>

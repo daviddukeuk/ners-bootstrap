@@ -1,0 +1,228 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/nerstemp.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+<!-- These bits define some editable regions, only relevant if you're using Adobe Dreamweaver. If the editable regions are removed, there will be problems across the site though. There is no content to update here so can be well left alone. -->
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>North of England Rat Society</title>
+<!-- InstanceEndEditable -->
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<!-- InstanceBeginEditable name="head" -->
+<!-- InstanceEndEditable -->
+<!-- Favicon bits -->
+<link rel="icon" href="http://www.neratsociety.co.uk/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="http://www.neratsociety.co.uk/favicon.ico" type="image/x-icon"> 
+<!-- Link to the style sheet where most of the site-wide formatting is kept -->
+<link href="../ners.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+body {
+	background-image: url(../background.gif);
+	overflow: scroll;
+}
+</style></head>
+
+<!-- This is the (slightly messy-looking) code for the nested tables that make up the main body. Again there is no content to update in this section so it can just be ignored. -->
+<body>
+<table width="900" border="1" align="center" cellpadding="0" cellspacing="0">
+  <tr><td><table width="900" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr><td height="22" colspan="3" bgcolor="#a98cc6">&nbsp;</td></tr>
+      <tr><td width="195" bgcolor="#cec7df"><a href="../index.shtml"><img src="../header.gif" width="150" height="150" hspace="12" border="0"/></a></td>
+        <td width="526" align="left" valign="top" bgcolor="#cec7df">
+          <table width="350" border="0" align="center" cellpadding="1" cellspacing="1">
+            <tr><td valign="top"><!--#include virtual="../news.shtml" --></td></tr>
+          </table></td>
+        <td width="179" bgcolor="#cec7df"><a href="../index.shtml"><img src="../logo.gif" width="150" height="154" hspace="10" border="0" align="right"/></a></td></tr>
+      <tr><td height="22" colspan="3" align="center" valign="middle" bgcolor="#a98cc6"><strong><font face="Century Gothic" size="3" color="#FFFFFF">Promoting excellence in the care and breeding of fancy rats</font></strong></td></tr>
+      <tr><td width="195" valign="top" bgcolor="#cec7df"><table width="195" border="0" align="left" cellpadding="6" cellspacing="12">
+      
+          <!-- This is the table for the left-hand links menu.  -->
+          <tr><td width="159" bgcolor="#f0eefc">
+            <a href="../html/about.shtml" class="menu" target="_self">About the NERS</a><br/>
+            <a href="../html/membershipinfo.shtml" class="menu" target="_self">Membership</a><br/>
+            <a href="../html/committee.shtml" class="menu" target="_self">Committee</a><br/>
+            <a href="../html/rattitude.shtml" class="menu" target="_self"><em>Rattitude</em> newsletter</a><br/>
+            <a href="../html/longevity.shtml" class="menu" target="_self">Longevity Awards</a></td></tr>
+            <tr>
+            <td bgcolor="#f0eefc">
+            <a href="../html/rescuefund.shtml" class="menu" target="_self">NERS Rescue Fund</a><br/>
+            <a href="../html/rescuestories.shtml" class="menu" target="_self">Rescue stories</a><br/>
+            <a href="../html/fundraising.shtml" class="menu" target="_self">Fundraising</a></td></tr>
+            <tr>
+            <td bgcolor="#f0eefc">
+            <a href="../html/forum.shtml" class="menu" target="_self">NERS members' forum</a></td></tr
+            ><tr>
+            <td bgcolor="#f0eefc">
+            <a href="../html/nextshow.shtml" class="menu" target="_self">Next NERS show</a><br/>
+            <a href="../html/showcalendar.shtml" class="menu" target="_self">2015 show calendar</a><br/>            
+            <a href="../html/showresults.shtml" class="menu" target="_self">Show results</a><br />
+            <a href="../html/showarticles.shtml" class="menu" target="_self">Show articles</a></td></tr>
+            <tr>
+            <td bgcolor="#f0eefc">
+            <a href="../html/halloffame.shtml" class="menu" target="_self">Hall of fame</a></td></tr>
+            <tr>
+            <td bgcolor="#f0eefc">
+            <a href="../html/lookingforrats.shtml" class="menu" target="_self">Looking for rats?</a><br/>
+            <a href="../articles/petshops.shtml" class="menu" target="_self">Buying from pet shops</a><br/>
+            <a href="../html/breederlist.shtml" class="menu" target="_self">NERS breeders</a><br/>
+            <a href="../html/rescuelist.shtml" class="menu" target="_self">NERS rescues</a></td></tr>
+            <tr>
+            <td bgcolor="#f0eefc">
+            <a href="../html/ratkeeping.shtml" class="menu" target="_self">Rat-keeping information</a><tr>
+            <td bgcolor="#f0eefc">
+            <a href="../html/committee.shtml" class="menu" target="_self">Contact us</a></td></tr>
+          </table></td>
+        <td colspan="2" valign="top" bgcolor="#FFFFFF">
+		<table width="99%" border="0" cellspacing="5" cellpadding="5">
+		  <tr>
+          
+                 <!-- This is the editable region for main body content - any changes or updates will go in this bit.  -->
+          		<!-- InstanceBeginEditable name="mainbody" -->
+          		<td align="left" valign="top"><p><strong>Content that has appeared previously</strong><br />
+          		  Only the main articles are included in the following summaries; society news, information and show reports are not listed.</p>
+                  <table width="86%" border="1" cellspacing="1" cellpadding="3">
+                    <tr>
+                      <td width="50" align="left" valign="top" bgcolor="#cec7df"><strong>Year</strong></td>
+                      <td width="50" align="left" valign="top" bgcolor="#cec7df"><strong>Issue</strong></td>
+                      <td width="83%" align="left" valign="top" bgcolor="#f0eefc"><strong>Content</strong></td>
+                    </tr>
+                    <tr>
+                      <td width="50" align="left" valign="top" bgcolor="#cec7df">2011</td>
+                      <td width="50" align="left" valign="top" bgcolor="#cec7df">66:</td>
+                      <td align="left" valign="top" bgcolor="#f0eefc">Inbreeding: Don't hide it, fight it. EGM accounts. But why rats?</td>
+                    </tr>
+                    <tr>
+                      <td width="50" align="left" valign="top" bgcolor="#cec7df">2011</td>
+                      <td width="50" align="left" valign="top" bgcolor="#cec7df">65:</td>
+                      <td align="left" valign="top" bgcolor="#f0eefc">&nbsp;</td>
+                    </tr>
+                    <tr>
+                      <td width="50" align="left" valign="top" bgcolor="#cec7df">2011</td>
+                      <td width="50" align="left" valign="top" bgcolor="#cec7df">64:</td>
+                      <td align="left" valign="top" bgcolor="#f0eefc">Buying rats from pet shops. Rat talk: What are they trying to tell you? (pt4).</td>
+                    </tr>
+                    <tr>
+                      <td width="50" align="left" valign="top" bgcolor="#cec7df">2011</td>
+                      <td width="50" align="left" valign="top" bgcolor="#cec7df">63:</td>
+                      <td align="left" valign="top" bgcolor="#f0eefc">Reviews of online shops.  To spay or not to spay? Weil's disease: A potential threat to rescuers. Attitudes to pet rats. Rat talk: What are they trying to tell you? (pt3). Ideas for vertical climbing.  My first experience of a litter.</td>
+                    </tr>
+                    <tr>
+                      <td width="50" align="left" valign="top" bgcolor="#cec7df"> 2011</td>
+                      <td width="50" align="left" valign="top" bgcolor="#cec7df">62: </td>
+                      <td align="left" valign="top" bgcolor="#f0eefc">Changes to Rattitude for 2011. Immune system function and health. Rat talk: What are they trying to tell you? (pt2). Ageing and longevity.</td>
+                    </tr>
+                    <tr>
+                      <td width="50" align="left" valign="top" bgcolor="#cec7df">2010</td>
+                      <td width="50" align="left" valign="top" bgcolor="#cec7df">61: </td>
+                      <td align="left" valign="top" bgcolor="#f0eefc">Our day at Stillington.  Fun events at our Preston Halloween show. Rat talk: What are they trying to tell you? (pt1).</td>
+                    </tr>
+                    <tr>
+                      <td width="50" align="left" valign="top" bgcolor="#cec7df">2010</td>
+                      <td width="50" align="left" valign="top" bgcolor="#cec7df">60: </td>
+                      <td align="left" valign="top" bgcolor="#f0eefc">Piglet's spay. Fun and games for your rat: Agility.</td>
+                    </tr>
+                    <tr>
+                      <td width="50" align="left" valign="top" bgcolor="#cec7df">2010</td>
+                      <td width="50" align="left" valign="top" bgcolor="#cec7df">59: </td>
+                      <td align="left" valign="top" bgcolor="#f0eefc">NERS Pet judge training. Beyond scatter feeding. Celebrating Piglet.  Vitamin D and the rat. Charlie: the Gambian pouched rat.</td>
+                    </tr>
+                    <tr>
+                      <td width="50" align="left" valign="top" bgcolor="#cec7df">2010</td>
+                      <td width="50" align="left" valign="top" bgcolor="#cec7df">58: </td>
+                      <td align="left" valign="top" bgcolor="#f0eefc">Breeding and exhibition - an unbreakable link?   Rats and children: Made for each other. Dick Whittington rats. Starting your own Rat Patch.</td>
+                    </tr>
+                    <tr>
+                      <td width="50" align="left" valign="top" bgcolor="#cec7df">2010</td>
+                      <td width="50" align="left" valign="top" bgcolor="#cec7df">57: <br /></td>
+                      <td align="left" valign="top" bgcolor="#f0eefc">Now where did they stash the cash? Cromarty's Cuddle Corner. Meldreth Pet Initiative event. Perspectives from the Cuddle Corner.</td>
+                    </tr>
+                    <tr>
+                      <td width="50" align="left" valign="top" bgcolor="#cec7df"> 2010</td>
+                      <td width="50" align="left" valign="top" bgcolor="#cec7df">56:</td>
+                      <td align="left" valign="top" bgcolor="#f0eefc">Archive article: Some thoughts on feeding breeding does and kittens. Complementary medicine for rats. Learning to let go. Diseases in the uterus and ovaries in female rats. Rats in research.</td>
+                    </tr>
+                    <tr>
+                      <td width="50" align="left" valign="top" bgcolor="#cec7df">2009</td>
+                      <td width="50" align="left" valign="top" bgcolor="#cec7df">55: </td>
+                      <td align="left" valign="top" bgcolor="#f0eefc">Getting in TTouch with your rat (TTouch pt3). And then there was one. Cage reviews.</td>
+                    </tr>
+                    <tr>
+                      <td width="50" align="left" valign="top" bgcolor="#cec7df">2009</td>
+                      <td width="50" align="left" valign="top" bgcolor="#cec7df">54: </td>
+                      <td align="left" valign="top" bgcolor="#f0eefc"> Join the revolution! Scatter feeding. Getting in TTouch with your rat (TTouch pt2). Choosing a rat cage.</td>
+                    </tr>
+                    <tr>
+                      <td width="50" align="left" valign="top" bgcolor="#cec7df">2009</td>
+                      <td width="50" align="left" valign="top" bgcolor="#cec7df">53: <br /></td>
+                      <td align="left" valign="top" bgcolor="#f0eefc">The Throckley rescue.    Getting in TTouch with your rat (TTouch pt1). Rat stories from the 19th century. Show news and the SDA virus. Keeping rats cool.</td>
+                    </tr>
+                    <tr>
+                      <td width="50" align="left" valign="top" bgcolor="#cec7df">2009</td>
+                      <td width="50" align="left" valign="top" bgcolor="#cec7df">52:</td>
+                      <td align="left" valign="top" bgcolor="#f0eefc">&nbsp;</td>
+                    </tr>
+                    <tr>
+                      <td width="50" align="left" valign="top" bgcolor="#cec7df">2009</td>
+                      <td width="50" align="left" valign="top" bgcolor="#cec7df">51:</td>
+                      <td align="left" valign="top" bgcolor="#f0eefc">&nbsp;</td>
+                    </tr>
+                    <tr>
+                      <td width="50" align="left" valign="top" bgcolor="#cec7df">2009</td>
+                      <td width="50" align="left" valign="top" bgcolor="#cec7df">50:</td>
+                      <td align="left" valign="top" bgcolor="#f0eefc">&nbsp;</td>
+                    </tr>
+                    <tr>
+                      <td width="50" align="left" valign="top" bgcolor="#cec7df">2008</td>
+                      <td width="50" align="left" valign="top" bgcolor="#cec7df">49:</td>
+                      <td align="left" valign="top" bgcolor="#f0eefc"> NERS Pet Initiative. Behavioural issues research. The effects of mutations in rats: Albinism.</td>
+                    </tr>
+                    <tr>
+                      <td width="50" align="left" valign="top" bgcolor="#cec7df">2008</td>
+                      <td width="50" align="left" valign="top" bgcolor="#cec7df">48:</td>
+                      <td align="left" valign="top" bgcolor="#f0eefc">&nbsp;</td>
+                    </tr>
+                    <tr>
+                      <td width="50" align="left" valign="top" bgcolor="#cec7df">2008</td>
+                      <td width="50" align="left" valign="top" bgcolor="#cec7df">47:</td>
+                      <td align="left" valign="top" bgcolor="#f0eefc">Taking rats into school. First anniversary of the London agouti rescue. Senses: Touch.   Back injuries:   Sandy’s story.
+                        </p></td>
+                    </tr>
+                    <tr>
+                      <td width="50" align="left" valign="top" bgcolor="#cec7df">2008</td>
+                      <td width="50" align="left" valign="top" bgcolor="#cec7df">46:</td>
+                      <td align="left" valign="top" bgcolor="#f0eefc">Alternative medicine for rats.  My agouti   experience. 65 wonderful   years: Olive and Frank. Sound: Stimulation or stressor? </td>
+                    </tr>
+                    <tr>
+                      <td width="50" align="left" valign="top" bgcolor="#cec7df">2008</td>
+                      <td width="50" align="left" valign="top" bgcolor="#cec7df">45:</td>
+                      <td align="left" valign="top" bgcolor="#f0eefc">2008 - A new year for rats (the Chinese year of the rat). Dealing with   grief. Rat café: Feeding the   elderly rat. What do pet judges look for in a rat?</td>
+                    </tr>
+                    <tr>
+                      <td width="50" align="left" valign="top" bgcolor="#cec7df">2008</td>
+                      <td width="50" align="left" valign="top" bgcolor="#cec7df">44.</td>
+                      <td align="left" valign="top" bgcolor="#f0eefc">Rat café: Christmas cheer.  Photograph competition. Training your rats. First aid for rats.</td>
+                    </tr>
+                    <tr>
+                      <td width="50" align="left" valign="top" bgcolor="#cec7df">2007</td>
+                      <td width="50" align="left" valign="top" bgcolor="#cec7df">43:</td>
+                      <td align="left" valign="top" bgcolor="#f0eefc">You are what you eat: Diet and condition. Understanding and maintaining   coat condition. Rescue Fund: The London rescue.  Rat café: Aiming at peak condition.</td>
+                    </tr>
+                    <tr>
+                      <td width="50" align="left" valign="top" bgcolor="#cec7df">2007</td>
+                      <td width="50" align="left" valign="top" bgcolor="#cec7df">42:</td>
+                      <td align="left" valign="top" bgcolor="#f0eefc">Rat senses: Vision.  Facial abscesses and infections. To hire or not to hire: Tanks at shows.   Medicating your rat. Rat café: High protein biscuits. Ratty love: Rats helping with mental health issues.</td>
+                    </tr>
+                </table></td>
+				<!-- InstanceEndEditable -->
+		    </tr>
+		  </table>
+		</td>
+      </tr>
+      <tr>
+        <td height="22" colspan="3" align="center" bgcolor="#a98cc6">&copy; NERS 2001-2015</td>
+      </tr>
+    </table></td>
+  </tr>
+</table>
+</body>
+<!-- InstanceEnd --></html>

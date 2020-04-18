@@ -2,7 +2,7 @@
 <?php global $menu; $menu = "about"; ?>
 <?php include($_SERVER['DOCUMENT_ROOT'].'/_includes/header.php'); ?>
 
-<div class="row">
+
 
 	<h2>Development of the NERS logo</h2>
 	<p>The original NERS logo was a black-and-white drawing of a rat's head with North of England Rat Society encircling it in large text, and occasionally a slightly modified version of this logo appeared in colour:</p>
@@ -42,6 +42,5 @@
 	<img src="/resources/pics/rattitude02.jpg" width="300" height="225"><br>
 	<img src="/resources/pics/rattitude03.jpg" width="605" height="402" style="margin-top: 4px;"></p>
 		
-</div>
 
 <?php include($_SERVER['DOCUMENT_ROOT'].'/_includes/footer.php'); ?>

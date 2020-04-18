@@ -2,11 +2,9 @@ DirectoryIndex index.php
 
 <IfModule mod_php5.c>
 php_flag magic_quotes_gpc off
-    php_flag session.auto_start off
-	php_flag zlib.output_compression on
-	
-	    php_flag zend.ze1_compatibility_mode Off
-
+php_flag session.auto_start off
+php_flag zlib.output_compression on
+php_flag zend.ze1_compatibility_mode Off
 </IfModule>
 
 <IfModule mod_deflate.c>
@@ -77,3 +75,114 @@ php_flag magic_quotes_gpc off
     ExpiresDefault "access plus 1 year"
 
 </IfModule>
+
+
+
+############################################
+# Redirects for old URLs to new URLs
+############################################
+
+Redirect 301 /html/about.shtml                      /about/
+Redirect 301 /html/membershipinfo.shtml             /membership/
+Redirect 301 /html/committee.shtml                  /committee/
+Redirect 301 /html/rattitude.shtml                  /rattitude/
+Redirect 301 /html/forum.shtml                      /forum/
+
+Redirect 301 /html/nextshow.shtml                   /show/next/
+Redirect 301 /forms/showentries.php                 /show/entry/
+Redirect 301 /html/showcalendar.shtml               /show/calendar/
+
+Redirect 301 /html/showresults.shtml                /show/results/
+Redirect 301 /html/showresults2017.shtml            /show/results/2017/
+Redirect 301 /html/showresults2016.shtml            /show/results/2016/
+Redirect 301 /html/showresults2015.shtml            /show/results/2015/
+Redirect 301 /html/showresults2014.shtml            /show/results/2014/
+Redirect 301 /html/showresults2013.shtml            /show/results/2013/
+Redirect 301 /html/showresults2012.shtml            /show/results/2012/
+Redirect 301 /html/showresults2011.shtml            /show/results/2011/
+Redirect 301 /html/showresults2010.shtml            /show/results/2010/
+
+Redirect 301 /html/showarticles.shtml               /articles/
+Redirect 301 /html/preventinginfection.shtml        /articles/preventinginfection/
+Redirect 301 /html/showgeneral.shtml                /articles/showgeneral/
+Redirect 301 /html/showpreparation.shtml            /articles/showpreparation/
+Redirect 301 /html/howtoshow.shtml                  /articles/howtoshow/
+Redirect 301 /articles/petjudging.shtml             /articles/petjudging/
+Redirect 301 /html/championships.shtml              /articles/championships/
+Redirect 301 /html/rosettes.shtml                   /articles/rosettes/
+Redirect 301 /html/funevents.shtml                  /articles/funevents/
+Redirect 301 /html/showphotos01.shtml               /articles/showphotos/
+Redirect 301 /html/showphotos02.shtml               /articles/showphotos/
+Redirect 301 /html/varietiesschedule.shtml          /articles/varietiesschedule/
+Redirect 301 /html/petsschedule.shtml               /articles/petsschedule/
+Redirect 301 /html/showrules.shtml                  /articles/showrules/
+Redirect 301 /html/guidancenotes.shtml              /articles/guidancenotes/
+
+Redirect 301 /html/ratkeeping.shtml                 /articles/
+Redirect 301 /articles/firstaid.shtml               /articles/firstaid/
+Redirect 301 /articles/metacam.shtml                /articles/metacam/
+Redirect 301 /articles/steroids.shtml               /articles/steroids/
+Redirect 301 /articles/quarantine.shtml             /articles/quarantine/
+Redirect 301 /html/vets.shtml                       /articles/vets/
+Redirect 301 /articles/infectionsafepractice.shtml  /articles/infectionsafepractice/
+Redirect 301 /articles/training-agility.shtml       /articles/agilitytraining/
+Redirect 301 /articles/training.shtml               /articles/training/
+Redirect 301 /articles/ratseyeview.shtml            /articles/ratseyeview/
+Redirect 301 /articles/company.shtml                /articles/company/
+Redirect 301 /articles/petshops.shtml               /articles/petshops/
+Redirect 301 /articles/ratcafe-fatnessfitness.shtml /articles/fatnessfitness/
+Redirect 301 /articles/ratcafe-feedingforcondition.shtml    /articles/feedingforcondition/
+Redirect 301 /articles/ratcafe-autumn.shtml         /articles/autumn/
+Redirect 301 /articles/ratcafe-keepingcool.shtml    /articles/keepingcool/
+
+Redirect 301 /html/longevity.shtml                  /longevity/
+Redirect 301 /html/championships.shtml              /championships/
+Redirect 301 /html/halloffame.shtml                 /halloffame/
+Redirect 301 /html/halloffame-pet.shtml             /halloffame/pet/
+Redirect 301 /html/halloffame-variety.shtml         /halloffame/variety/
+Redirect 301 /html/halloffame-stud.shtml            /halloffame/stud/
+Redirect 301 /html/halloffame-grand.shtml           /halloffame/grand/
+Redirect 301 /html/halloffame-agility.shtml         /halloffame/agility/
+Redirect 301 /html/halloffame-longevity.shtml       /halloffame/longevity/
+Redirect 301 /html/halloffame-longevity1819.shtml   /halloffame/longevity/2018-2019
+Redirect 301 /html/halloffame-longevity1617.shtml   /halloffame/longevity/2016-2017
+Redirect 301 /html/halloffame-longevity1415.shtml   /halloffame/longevity/2014-2015
+Redirect 301 /html/halloffame-longevity1213.shtml   /halloffame/longevity/2012-2013
+Redirect 301 /html/halloffame-longevity1011.shtml   /halloffame/longevity/2010-2011
+Redirect 301 /html/halloffame-longevity0509.shtml   /halloffame/longevity/2005-2009
+
+Redirect 301 /html/rescuefund.shtml                 /rescuefund/
+Redirect 301 /html/rescueguidelines.shtml           /rescuefund/guidelines/
+Redirect 301 /forms/rescue.shtml                    /rescuefund/apply/
+Redirect 301 /html/rescuestories.shtml              /rescuefund/stories/
+Redirect 301 /html/fundraising.shtml                /rescuefund/fundraising/
+
+Redirect 301 /html/lookingforrats.shtml             /lookingforrats/
+Redirect 301 /html/breederlist.shtml                /breeders/
+Redirect 301 /html/rescuelist.shtml                 /rescues/
+
+Redirect 301 /html/privacy-policy.shtml             /privacy/
+
+### Files (do we want to rename them?) ###
+#/resources/stewardingmanual.pdf                 
+#/resources/petstandards2015.pdf                 
+#/resources/petjudgingmanual2015.pdf
+#/resources/agilitymanual.pdf
+#/resources/NERSratcare.pdf
+
+### Alternative URLs ###
+Redirect 302 /show/articles/                        /articles/
+Redirect 302 /contact/                              /committee/
+
+
+
+
+
+
+
+
+
+
+
+############################################
+################### END#####################

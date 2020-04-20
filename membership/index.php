@@ -1,7 +1,10 @@
-<?php global $page_title; $page_title = "Membership Information"; ?>
-<?php global $menu; $menu = "membership"; ?>
-<?php include($_SERVER['DOCUMENT_ROOT'].'/_includes/header.php'); ?>
+<?php
+require_once($_SERVER['DOCUMENT_ROOT'].'/_includes/_functions.php');
+$page_title = "Membership Information";// appended to <title> tag
+$menu = "membership";// navigation section of this page
 
+inc('header'); // display page header
+?>
 
 <h2>Membership</h2>
 
@@ -101,4 +104,6 @@
 <p>Alternatively, you can download the <a href="/resources/docs/application-form.pdf" title="Membership application form (PDF)" target="_blank">application form</a> (pdf format), complete it and return by post to our membership secretary. You should also include a cheque payable to the NERS. Full details are on the application form. For further information contact our <a href="mailto:membership@neratsociety.co.uk" title="membership@neratsociety.co.uk">membership secretary</a>.</p>
 <p><strong>Please note the society is run by volunteers in their free time, so it can take up to 28 days for your membership pack to be processed.</strong></p>
 	
-<?php include($_SERVER['DOCUMENT_ROOT'].'/_includes/footer.php'); ?>
+<?php
+inc('footer'); // display page footer
+?>

@@ -110,7 +110,7 @@ a:hover {
 	text-decoration: none;
 }
 #nav ul li a.active {
-	color: #408;
+	text-shadow: 0px 0px 6px #a98cc6;
 }
 #nav-mobile {
 	background-color: #A98CC6;

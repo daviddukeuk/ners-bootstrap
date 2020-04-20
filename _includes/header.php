@@ -1,10 +1,12 @@
 <?php
-// If $page_title variable has been forgotten to be set, then default to something nice.
-if(!isset($page_title)){
-	$head_title = "North of England Rat Society";
-} else {
-	$head_title = "North of England Rat Society: $page_title";
-}
+$prefix = "North of England Rat Society";//Default page prefix
+$affix 	= "";//Default page affix
+
+$head_title = $prefix.$affix;
+global $page_title;
+global $page_title_override;
+if(isset($page_title)) $head_title = $prefix.": ".$page_title.$affix;
+if(isset($page_title) && isset($page_title) && $page_title_override == true) $head_title = $page_title;
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -33,7 +35,7 @@ if(!isset($page_title)){
 					<h1><a href="/">North of England Rat Society</a></h1>
 				</div>
 				<div class="col-6 pt-3 newsupdate">
-					<?php include($_SERVER['DOCUMENT_ROOT'].'/_includes/news.php'); ?>
+					<?php inc('news'); ?>
 				</div>
 				<div class="col pt-3 mr-2 logo hidemobile">
 					<img src="/assets/img/logo.gif">
@@ -43,5 +45,5 @@ if(!isset($page_title)){
 			
 		</div>
 		<div class="contentcontainer row">
-			<?php include($_SERVER['DOCUMENT_ROOT'].'/_includes/navigation.php'); ?>
+			<?php inc('navigation'); ?>
 			<div id="content" class="content col-lg-9 col-md-12 col-sm-12 col-xs-12 pt-2">

@@ -1,2 +1,10 @@
 User-Agent: *
 Disallow: /
+# For now don't index at all!
+
+Disallow: /_includes
+Disallow: /_includes/*
+Disallow: /assets
+Disallow: /assets/*
+Disallow: /resources
+Disallow: /resources/*

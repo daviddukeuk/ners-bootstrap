@@ -1,1 +1,2 @@
-Built by David Duke
+Original Developer: David Duke
+Additional Design and Development: Emma McLean

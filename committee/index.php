@@ -1,6 +1,10 @@
-<?php global $page_title; $page_title = "Committee 2018-19"; ?>
-<?php global $menu; $menu = "committee"; ?>
-<?php include($_SERVER['DOCUMENT_ROOT'].'/_includes/header.php'); ?>
+<?php
+require_once($_SERVER['DOCUMENT_ROOT'].'/_includes/_functions.php');
+$page_title = "Committee 2018-19";// appended to <title> tag
+$menu = "committee";// navigation section of this page
+
+inc('header'); // display page header
+?>
 
 <div class="row">
 
@@ -146,4 +150,8 @@
 		</p>
 	</div>
 </div>
-<?php include($_SERVER['DOCUMENT_ROOT'].'/_includes/footer.php'); ?>
+
+
+<?php
+inc('footer'); // display page footer
+?>

@@ -157,6 +157,9 @@ a:hover {
 .highlight-light {
 	background-color: #f0eefc;
 }
+.mb-10 {
+	margin-bottom: 10px;
+}
 
 /* Custom page footer */
 .footer {

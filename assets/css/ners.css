@@ -146,6 +146,10 @@ a:hover {
 	font-size: 19px;
 	font-weight: bold;
 }
+.content h3 {
+	font-size: 17px;
+	font-weight: normal;
+}
 
 .content table {
 	margin: 0 0 10px;

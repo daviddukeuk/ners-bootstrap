@@ -32,7 +32,7 @@
 					
 					<ul>	
 						<li>
-							<a href="/articles" <?php echo isActive("articles"); ?>>Rat-keeping Information</a>
+							<a href="/articles/" <?php echo isActive("articles"); ?>>Rat-keeping Information</a>
 						</li>
 					</ul>
 					
@@ -44,7 +44,7 @@
 							<a href="/show/calendar/" <?php echo isActive("show/calendar"); ?>>Show Calendar</a>            
 						</li>
 						<li>
-							<a href="/show/results" <?php echo isActive("show/results"); ?>>Show Results</a>
+							<a href="/show/results/" <?php echo isActive("show/results"); ?>>Show Results</a>
 						</li>
 						<li>
 							<a href="/articles/" <?php echo isActive("articles"); ?>>Show Articles</a>
@@ -56,7 +56,7 @@
 							<a href="/longevity/" <?php echo isActive("longevity"); ?>>Longevity Award Scheme</a>
 						</li>
 						<li>
-							<a href="/championships/" <?php echo isActive("championship"); ?>>Championship Scheme</a>
+							<a href="/championship/" <?php echo isActive("championship"); ?>>Championship Scheme</a>
 						</li>
 						<li>
 							<a href="/halloffame/" <?php echo isActive("halloffame"); ?>>Hall of Fame</a>
@@ -68,16 +68,16 @@
 							<a href="/rescuefund/" <?php echo isActive("rescuefund"); ?>>NERS Rescue Fund</a>
 						</li>
 						<li>
-							<a href="/rescuefund/stories" <?php echo isActive("rescuefund/stories"); ?>>Rescue Stories</a>
+							<a href="/rescuefund/stories/" <?php echo isActive("rescuefund/stories"); ?>>Rescue Stories</a>
 						</li>
 						<li>
-							<a href="/rescuefund/fundraising" <?php echo isActive("rescuefund/fundraising"); ?>>Fundraising</a>
+							<a href="/rescuefund/fundraising/" <?php echo isActive("rescuefund/fundraising"); ?>>Fundraising</a>
 						</li>
 					</ul>
 							
 					<ul>
 						<li>
-							<a href="/lookingforrats" <?php echo isActive("lookingforrats"); ?>>Looking for Rats?</a>
+							<a href="/lookingforrats/" <?php echo isActive("lookingforrats"); ?>>Looking for Rats?</a>
 						</li>
 						<li>
 							<a href="/articles/petshops/" <?php echo isActive("articles/petshops"); ?>>Buying from Pet Shops</a>

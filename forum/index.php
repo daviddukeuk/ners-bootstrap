@@ -14,7 +14,7 @@ Once you have completed the forum sign-up process, please email the <a href="mai
 
 <div id="forum-large">
     <a href="/phpbb/index.php">Enter the Forum here</a>
-    <img src="/resources/pics/rat_on_compute-mouse.jpg" />
+    <img src="/resources/pics/rat_on_computer-mouse.jpg" />
 </div>
 
 <?php

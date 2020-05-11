@@ -164,6 +164,9 @@ a:hover {
 .mb-10 {
 	margin-bottom: 10px;
 }
+.card {
+	border: none;
+}
 
 /* Custom page footer */
 .footer {
@@ -190,6 +193,12 @@ a:hover {
 #rescuelist h2 {
 	margin-top: 2em;
 }
+body.articles .card ul {
+	padding-left: 1.3em;
+}
+.card-columns {
+	column-count: 2;
+  }
 
 /* Bootstrap Theme Overrides */
 .table .thead-dark th {

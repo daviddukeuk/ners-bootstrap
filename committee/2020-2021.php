@@ -17,7 +17,7 @@ inc('header'); // display page header
 	</p>
 
 	<div class="col">
-		<p>Do you want to get more involved in your society? Email <a href="mailto:chair@neratsociety.co.uk">chair@neratsociety.co.uk</u></a> and let us know what you can do!</p>
+		<p>Do you want to get more involved in your society? Email <a href="mailto:chair@neratsociety.co.uk">chair@neratsociety.co.uk</a> and let us know what you can do!</p>
 		<p><em>Elected by the membership at the 2020 AGM.</em></p>
 		
 		<table class="table table-hover">
@@ -154,7 +154,6 @@ inc('header'); // display page header
 		</p>
 	</div>
 </div>
-
 
 <?php
 inc('footer'); // display page footer

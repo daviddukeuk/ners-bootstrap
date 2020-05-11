@@ -1,0 +1,3 @@
+RewriteEngine on
+RewriteCond %{REQUEST_URI} !^/phpbb/index.html 
+RewriteRule (.*) /phpbb/index.html [R=302,L]

@@ -181,6 +181,14 @@ a:hover {
 }
 
 
+/* Per-page CSS */
+#forum-large {
+	font-size: 2em;
+	font-weight: bold;
+	text-align: center;
+}
+
+
 /* Bootstrap Theme Overrides */
 .table .thead-dark th {
     color: #fff;
@@ -200,9 +208,12 @@ a:hover {
 }
 
 @media only screen and (max-width : 991px) {
+	/* #DDD - There wasn't an easy Bootstrap way to do this */
 	.hidemobile {
 		display: none;
 	}
+
+	/* Dave's minor edits for NERS nav*/
 	#nav {
 		padding-bottom: 1px;
 		margin-bottom: 0;
@@ -210,14 +221,6 @@ a:hover {
 	#navcontainer {
 		padding-right: 0;
 	}
-	/*.content {
-		padding: 0 30px;
-	}
-	
-	
-	#nav-mobile {
-		display: block;
-	}*/
 	#nav.collapse {
 		display: none;
 	}

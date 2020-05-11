@@ -1,14 +1,25 @@
 <?php
+// Default Values
 $prefix = "North of England Rat Society";//Default page prefix
 $affix 	= "";//Default page affix
-
+// Make page TITLE
 $head_title = $prefix.$affix;
 global $page_title;
 global $page_title_override;
 if(isset($page_title)) $head_title = $prefix.": ".$page_title.$affix;
 if(isset($page_title) && isset($page_title) && $page_title_override == true) $head_title = $page_title;
-?>
-<!DOCTYPE html>
+
+// Make BODY css classes
+$navEl = explode('/',$_SERVER['REQUEST_URI']);
+$bodyclasses = "";
+foreach($navEl as $item){
+	if(empty($item) || $item == "index.php") continue;
+	$bodyclasses .= "$item ";
+}
+$bodyclasses = rtrim($bodyclasses);
+if(empty($bodyclasses)) $bodyclasses = "homepage";
+
+?><!DOCTYPE html>
 <html lang="en">
 <head>
 	<meta charset="utf-8">
@@ -24,7 +35,7 @@ if(isset($page_title) && isset($page_title) && $page_title_override == true) $he
 	<!--<link href="https://fonts.googleapis.com/css?family=Muli" rel="stylesheet">-->
 	<link href="/assets/css/ners.css" rel="stylesheet">
 </head>
-<body>
+<body class="<?php echo $bodyclasses; ?>">
 	<div id="wip">Site Under Conscruction - Many links won't work, and submission forms maybe be funky for a bit.</div>
 	<a href="#content" class="sr-only sr-only-focusable" id="skippy">Skip to main content</a>
 	

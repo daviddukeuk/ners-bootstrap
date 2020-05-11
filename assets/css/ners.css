@@ -187,7 +187,9 @@ a:hover {
 	font-weight: bold;
 	text-align: center;
 }
-
+#rescuelist h2 {
+	margin-top: 2em;
+}
 
 /* Bootstrap Theme Overrides */
 .table .thead-dark th {
